@@ -66,7 +66,7 @@ Esta classe armazena os números e os sinais das operações matemáticas. Ela p
   - Utiliza o `Tkinter` para criar uma interface simples e funcional;
   - A tela é dividida em uma matriz de botões que permite ao usuário interagir com a calculadora.
 
-### Melhorias Futuras
+## Melhorias Futuras
 
   - Melhorar front da interface gráfica;
   - Histórico de cálculo;
